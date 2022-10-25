@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+h1,
+p {
+    color: plum;
+}
+
+.cart{
+    width: 20%;
+    margin: 20px;
+    display: inline-block;
+    margin: 10px;
+    gap: 10vh;
+    border: 1px solid plum;
+
+
+}
+
+.image2 {
+    padding: 10px;
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
+}
+
+.description,
+.price,
+.rating {
+    margin: 10px;
+    text-align: center;
+    color: plum;
+}
+
+
+
+
+
+
+
+.heading {
+  text-align: center;
+  color: plum;
+ 
+}
+#buyNow{
+    background-color: plum;
+    color: white;
+    border-radius: 80px;
+    cursor: pointer;
+   float: left;
+    border: 0;
+    width: 10%;
+    height: 40px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+   
+
+}
+.heading1 {
+    text-align: left;
+    color: plum;
+      text-decoration: none;
+      font-size: 20px;
+  }
